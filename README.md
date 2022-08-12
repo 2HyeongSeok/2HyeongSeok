@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jihna1645)](https://solved.ac/jihna1645)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=jihna1645&theme=warm)
