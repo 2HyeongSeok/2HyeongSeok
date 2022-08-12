@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jihna1645)](https://solved.ac/jihna1645) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jihna1645&theme=warm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![HyeongSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=2HyeongSeok&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2HyeongSeok)](https://github.com/2HyeongSeok/github-readme-stats)![HyeongSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=2HyeongSeok&show_icons=true&theme=radical)
